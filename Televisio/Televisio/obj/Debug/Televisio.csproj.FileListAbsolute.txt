@@ -1,0 +1,6 @@
+c:\users\jusa\documents\visual studio 2015\Projects\Televisio\Televisio\bin\Debug\Televisio.exe.config
+c:\users\jusa\documents\visual studio 2015\Projects\Televisio\Televisio\bin\Debug\Televisio.exe
+c:\users\jusa\documents\visual studio 2015\Projects\Televisio\Televisio\bin\Debug\Televisio.pdb
+c:\users\jusa\documents\visual studio 2015\Projects\Televisio\Televisio\obj\Debug\Televisio.csprojResolveAssemblyReference.cache
+c:\users\jusa\documents\visual studio 2015\Projects\Televisio\Televisio\obj\Debug\Televisio.exe
+c:\users\jusa\documents\visual studio 2015\Projects\Televisio\Televisio\obj\Debug\Televisio.pdb

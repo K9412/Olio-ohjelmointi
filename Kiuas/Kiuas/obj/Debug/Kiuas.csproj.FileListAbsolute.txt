@@ -1,0 +1,6 @@
+c:\users\jusa\documents\visual studio 2015\Projects\Kiuas\Kiuas\bin\Debug\Kiuas.exe.config
+C:\Users\Jusa\Documents\Visual Studio 2015\Projects\Kiuas\Kiuas\bin\Debug\Kiuas.exe
+C:\Users\Jusa\Documents\Visual Studio 2015\Projects\Kiuas\Kiuas\bin\Debug\Kiuas.pdb
+C:\Users\Jusa\Documents\Visual Studio 2015\Projects\Kiuas\Kiuas\obj\Debug\Kiuas.csprojResolveAssemblyReference.cache
+C:\Users\Jusa\Documents\Visual Studio 2015\Projects\Kiuas\Kiuas\obj\Debug\Kiuas.exe
+C:\Users\Jusa\Documents\Visual Studio 2015\Projects\Kiuas\Kiuas\obj\Debug\Kiuas.pdb

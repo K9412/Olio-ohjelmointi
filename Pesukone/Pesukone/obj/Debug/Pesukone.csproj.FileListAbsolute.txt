@@ -1,0 +1,6 @@
+c:\users\jusa\documents\visual studio 2015\Projects\Pesukone\Pesukone\bin\Debug\Pesukone.exe.config
+c:\users\jusa\documents\visual studio 2015\Projects\Pesukone\Pesukone\bin\Debug\Pesukone.exe
+c:\users\jusa\documents\visual studio 2015\Projects\Pesukone\Pesukone\bin\Debug\Pesukone.pdb
+c:\users\jusa\documents\visual studio 2015\Projects\Pesukone\Pesukone\obj\Debug\Pesukone.csprojResolveAssemblyReference.cache
+c:\users\jusa\documents\visual studio 2015\Projects\Pesukone\Pesukone\obj\Debug\Pesukone.exe
+c:\users\jusa\documents\visual studio 2015\Projects\Pesukone\Pesukone\obj\Debug\Pesukone.pdb

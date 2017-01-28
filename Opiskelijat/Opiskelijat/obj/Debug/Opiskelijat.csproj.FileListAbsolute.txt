@@ -1,0 +1,6 @@
+c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\bin\Debug\Opiskelijat.exe.config
+c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\bin\Debug\Opiskelijat.exe
+c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\bin\Debug\Opiskelijat.pdb
+c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.csprojResolveAssemblyReference.cache
+c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.exe
+c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.pdb
