@@ -79,6 +79,8 @@ namespace Jaakaappi
             jaakaappi.SetTemperature(5);
             jaakaappi.OpenTheDoor();
             jaakaappi.PrintStatus();
+            jaakaappi.CloseTheDoor();
+            jaakaappi.PrintStatus();
 
             Jaakaappi jaakaappi2 = new Jaakaappi();
             jaakaappi2.PrintStatus();
