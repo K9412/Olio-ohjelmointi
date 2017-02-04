@@ -50,10 +50,6 @@ namespace Employee
         {
 
         }
-        public Employee(string nameIn)
-        {
-            name = nameIn;
-        }
         public Employee(string nameIn, string professionIn, int salaryIn)
         {
             name = nameIn;
@@ -96,11 +92,6 @@ namespace Employee
         public Boss()
         {
 
-        }
-        public Boss(string carIn, int bonusIn)
-        {
-            car = carIn;
-            bonus = bonusIn;
         }
         public Boss(string nameIn, string professionIn, int salaryIn, string carIn, int bonusIn) : base(nameIn, professionIn, salaryIn)
         {
