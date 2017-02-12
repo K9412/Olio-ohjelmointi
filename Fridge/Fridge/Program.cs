@@ -24,7 +24,7 @@ namespace Fridge
         private bool doorIsOpen = false;
         private bool signalFromDoorSensor = true; //true niin ovi on kiinni
 
-        public bool OpenTheDoor
+        public bool DoorIsOpen
         {
             get
             {
@@ -36,6 +36,11 @@ namespace Fridge
                 if (doorIsOpen == true)
                 {
                     signalFromDoorSensor = false;
+                    light = SetLight();
+                }
+                else
+                {
+                    signalFromDoorSensor = true;
                     light = SetLight();
                 }
             }
@@ -88,7 +93,9 @@ namespace Fridge
             a.AddItem(beer);
             a.AddItem(deadCat);
             Console.WriteLine(a.ToString());
-            a.OpenTheDoor = true;
+            a.DoorIsOpen = true;
+            Console.WriteLine(a.ToString());
+            a.DoorIsOpen = false;
             Console.WriteLine(a.ToString());
         }
     }
