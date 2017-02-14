@@ -4,3 +4,6 @@ c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\bin\
 c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.csprojResolveAssemblyReference.cache
 c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.exe
 c:\users\jusa\documents\visual studio 2015\Projects\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.pdb
+D:\K9412\Olio-ohjelmointi\Opiskelijat\Opiskelijat\bin\Debug\Opiskelijat.exe.config
+D:\K9412\Olio-ohjelmointi\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.exe
+D:\K9412\Olio-ohjelmointi\Opiskelijat\Opiskelijat\obj\Debug\Opiskelijat.pdb

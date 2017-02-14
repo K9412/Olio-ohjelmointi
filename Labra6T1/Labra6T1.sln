@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle", "Vehicle\Vehicle.csproj", "{D6956F71-F580-42D6-9670-E8203382F2BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra6T1", "Labra6T1\Labra6T1.csproj", "{DADCE01F-52A6-4A48-9057-9FFC9C483DFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D6956F71-F580-42D6-9670-E8203382F2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6956F71-F580-42D6-9670-E8203382F2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6956F71-F580-42D6-9670-E8203382F2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6956F71-F580-42D6-9670-E8203382F2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADCE01F-52A6-4A48-9057-9FFC9C483DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADCE01F-52A6-4A48-9057-9FFC9C483DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADCE01F-52A6-4A48-9057-9FFC9C483DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADCE01F-52A6-4A48-9057-9FFC9C483DFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

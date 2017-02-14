@@ -3,3 +3,6 @@ c:\users\jusa\documents\visual studio 2015\Projects\Vehicle\Vehicle\bin\Debug\Ve
 c:\users\jusa\documents\visual studio 2015\Projects\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
 c:\users\jusa\documents\visual studio 2015\Projects\Vehicle\Vehicle\obj\Debug\Vehicle.exe
 c:\users\jusa\documents\visual studio 2015\Projects\Vehicle\Vehicle\obj\Debug\Vehicle.pdb
+D:\K9412\Olio-ohjelmointi\Vehicle\Vehicle\bin\Debug\Vehicle.exe.config
+D:\K9412\Olio-ohjelmointi\Vehicle\Vehicle\obj\Debug\Vehicle.exe
+D:\K9412\Olio-ohjelmointi\Vehicle\Vehicle\obj\Debug\Vehicle.pdb
