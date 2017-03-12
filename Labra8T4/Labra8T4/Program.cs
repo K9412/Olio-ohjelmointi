@@ -16,7 +16,7 @@ namespace Labra8T4
     class Circle : Shape
     {
         public double Pi { get { return 3.14; } }
-        public double Radius { get; set; }
+        public double Radius { get; }
 
         public Circle(double radius)
         {
@@ -38,8 +38,8 @@ namespace Labra8T4
     }
     class Rectangle : Shape
     {
-        public double Width { get; set; }
-        public double Height { get; set; }
+        public double Width { get; }
+        public double Height { get; }
 
         public Rectangle(double width, double height)
         {
