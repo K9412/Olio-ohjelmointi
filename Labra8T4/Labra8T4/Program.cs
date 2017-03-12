@@ -20,6 +20,7 @@ namespace Labra8T4
 
         public Circle(double radius)
         {
+            Name = "Circle";
             Radius = radius;
         }
         public override double Area()
@@ -32,7 +33,7 @@ namespace Labra8T4
         }
         public override string ToString()
         {
-            return "Circle Radius=" + Radius + " Area=" + Area() + " Circumference=" + Circumference() + "\n";
+            return Name + " Radius=" + Radius + " Area=" + Area() + " Circumference=" + Circumference() + "\n";
         }
     }
     class Rectangle : Shape
@@ -42,6 +43,7 @@ namespace Labra8T4
 
         public Rectangle(double width, double height)
         {
+            Name = "Rectangle";
             Width = width;
             Height = height;
         }
@@ -55,7 +57,7 @@ namespace Labra8T4
         }
         public override string ToString()
         {
-            return "Rectangle Width=" + Width + " Height=" + Height + " Area=" + Area() + " Circumference="
+            return Name + " Width=" + Width + " Height=" + Height + " Area=" + Area() + " Circumference="
                                                                                     + Circumference() + "\n";
         }
     }
