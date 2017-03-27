@@ -1,0 +1,17 @@
+﻿<Window x:Class="Labra9T2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Labra9T2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtMarkat" HorizontalAlignment="Left" Height="23" Margin="83,83,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="txtMarkat_TextChanged"/>
+        <TextBox x:Name="txtEurot" HorizontalAlignment="Left" Height="23" Margin="288,83,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="txtEurot_TextChanged"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="83,62,0,0" TextWrapping="Wrap" Text="Markat" VerticalAlignment="Top" Width="42"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="380,62,0,0" TextWrapping="Wrap" Text="Eurot" VerticalAlignment="Top"/>
+        <Button x:Name="btnEuroiksi" Content="Euroiksi" HorizontalAlignment="Left" Margin="144,111,0,0" VerticalAlignment="Top" Width="59" Click="btnEuroiksi_Click"/>
+        <Button x:Name="btmMarkoiksi" Content="Markoiksi" HorizontalAlignment="Left" Margin="288,111,0,0" VerticalAlignment="Top" Width="63" Click="btmMarkoiksi_Click"/>
+    </Grid>
+</Window>
